@@ -1,0 +1,35 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+.color{
+    color: rgba(229, 255, 0, 0.801);
+}
+.paragraph-color{
+    font-size: 10px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 50px;
+}
+.half-width img{
+    width: 100%;
+    padding-right: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    font: 700;
+    color: peachpuff;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
